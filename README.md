@@ -30,7 +30,7 @@ The following software needs to be installed on your computer:
 
 Once you have completed that process, edit this file (README.md) by pressing the pencil icon.
 
-Once you have finished editing README.md, press the "Commit Changes" button at the bottom of the page. On the main page for this repository, copy the URL (it should be in the form: `https://github.com/[username]/Exercise-01a-Install-Software`), and submit that as the URL for the exercise on Canvas.
+Once you have finished editing README.md, press the "Commit Changes" button at the bottom of the page. On the main page for this repository, copy the URL (it should be in the form: `https://github.com/[username]/Exercise-1.0-Install-Software`), and submit that as the URL for the exercise on Canvas.
 
 The final state of this file should be as follows (replacing my information with yours). If you have any problems installing the software, note it at the bottom:
 ```
